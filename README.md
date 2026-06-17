@@ -16,6 +16,21 @@ Previously built data pipelines and ML-based document intelligence systems at Li
 
 ---
 
+## 🔮 What's Next
+
+Currently building: **LLM-Powered Industrial Anomaly Explainer**
+
+A system that detects anomalies in any industrial sensor data and explains them in plain English using an LLM grounded in the user's own uploaded documents (manuals, maintenance logs, reports).
+
+Upload your sensor CSV + machine documentation → get a diagnosis like:
+> "Hydraulic pressure has dropped 23% below baseline over the last 15 cycles. A similar pattern in your March 2023 maintenance log preceded a seal failure. Recommend inspection before next shift."
+
+**Stack:** Autoencoder · RAG Pipeline · FAISS · GPT-4o · Streamlit
+
+*Coming soon.*
+
+---
+
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
