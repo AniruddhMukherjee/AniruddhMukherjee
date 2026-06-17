@@ -9,13 +9,6 @@ Previously built data pipelines and ML-based document intelligence systems at Li
 
 ---
 
-## What I'm working on
-
-- 🔧 **[Predictive Maintenance](https://github.com/AniruddhMukherjee/predictive-maintenance)** — RUL prediction on NASA CMAPSS turbofan sensor data using XGBoost, LSTM and Transformer. Live dashboard on Hugging Face Spaces.
-- 📄 **Published** — [Flood Area Segmentation: U-Net vs U2-Net](https://link.springer.com/chapter/10.1007/978-981-97-8526-1_25) | Springer LNNS, ICT4SD 2024
-
----
-
 ## 🔮 What's Next
 
 Currently building: **LLM-Powered Industrial Anomaly Explainer**
@@ -28,6 +21,13 @@ Upload your sensor CSV + machine documentation → get a diagnosis like:
 **Stack:** Autoencoder · RAG Pipeline · FAISS · GPT-4o · Streamlit
 
 *Coming soon.*
+
+---
+
+## What I'm done working on
+
+- 🔧 **[Predictive Maintenance](https://github.com/AniruddhMukherjee/predictive-maintenance)** — RUL prediction on NASA CMAPSS turbofan sensor data using XGBoost, LSTM and Transformer. Live dashboard on Hugging Face Spaces.
+- 📄 **Published** — [Flood Area Segmentation: U-Net vs U2-Net](https://link.springer.com/chapter/10.1007/978-981-97-8526-1_25) | Springer LNNS, ICT4SD 2024
 
 ---
 
